@@ -10,11 +10,11 @@ Version: 1.0
 License: Remixing or Changing this Thing is allowed. Commercial use is not allowed.
 */
 
-
-#define in1 5 //L298n Motor Driver pins.
-#define in2 6
-#define in3 10
-#define in4 11
+//L298n Motor Driver pins.
+#define in1 5 //stanga F
+#define in2 6 //stanga SP
+#define in3 10 // dreapta F
+#define in4 11 //dreapta SP
 #define LED 13
 int command; //Int to store app command state.
 int Speed = 255; // 0 - 255.
@@ -106,13 +106,13 @@ void loop() {
 }
 
 void forward() {
-  analogWrite(in1, Speed);
-  analogWrite(in3, Speed);
+  analogWrite(in2, Speed);
+  analogWrite(in4, Speed);
 }
 
 void back() {
-  analogWrite(in2, Speed);
-  analogWrite(in4, Speed);
+  analogWrite(in1, Speed);
+  analogWrite(in3, Speed);
 }
 
 void left() {
@@ -125,20 +125,20 @@ void right() {
   analogWrite(in2, Speed);
 }
 void forwardleft() {
-  analogWrite(in1, Speed);
-  analogWrite(in3, Speedsec);
-}
-void forwardright() {
-  analogWrite(in1, Speedsec);
-  analogWrite(in3, Speed);
-}
-void backright() {
   analogWrite(in2, Speedsec);
   analogWrite(in4, Speed);
 }
-void backleft() {
+void forwardright() {
   analogWrite(in2, Speed);
   analogWrite(in4, Speedsec);
+}
+void backright() {
+  analogWrite(in1, Speed);
+  analogWrite(in3, Speedsec);
+}
+void backleft() {
+  analogWrite(in1, Speedsec);
+  analogWrite(in3, Speed);
 }
 
 void Stop() {
