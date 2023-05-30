@@ -13,8 +13,8 @@ License: Remixing or Changing this Thing is allowed. Commercial use is not allow
 
 #define in1 5 //L298n Motor Driver pins.
 #define in2 6
-#define in3 10
-#define in4 11
+#define in3 11
+#define in4 12
 #define LED 13
 int command; //Int to store app command state.
 int Speed = 255; // 0 - 255.
