@@ -18,6 +18,10 @@ In the context of the constant evolution of technology and the natural way peopl
 
 The project aims to develop a practical and interactive application that, in addition to traditional methods of controlling a remote-controlled car, allows users to maneuver it through gestures captured by the computer's camera.
 
+<p align="center">
+  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/Arduino_Car.png" alt="Arduino Car" width="400" />
+</p>
+
 ![Arduino Car]()
 
 ### Technology Stack
@@ -58,7 +62,9 @@ The "Bluetooth RC Controller" app, available on the Play Store, is an ideal opti
 
 The next phase involves implementing hand gesture recognition and transmitting corresponding commands. This step aims to provide a new perspective on device control, offering a more captivating experience without the need for direct interaction with the mobile application.
 
-![](https://github.com/A-Bogdan/RC_Car/blob/main/src/hand_gestures.png)
+<p align="center">
+  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/hand_gestures.png" alt="Hand Gestures" width="400" />
+</p>
 
 ## Project Achievements
 
