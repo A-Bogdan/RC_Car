@@ -37,7 +37,7 @@ This work is divided into three main chapters:
 - Configuration and coordinated connection of components.
 
 <p align="center">
-  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/fritzing.png" alt="Arduino Car" width="700" />
+  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/fritzing.png" alt="Arduino Car" width="650" />
 </p>
 
 ### 2. Remote Control through a Mobile Application
@@ -65,7 +65,7 @@ The "Bluetooth RC Controller" app, available on the Play Store, is an ideal opti
 The next phase involves implementing hand gesture recognition and transmitting corresponding commands. This step aims to provide a new perspective on device control, offering a more captivating experience without the need for direct interaction with the mobile application.
 
 <p align="center">
-  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/hand_gestures.png" alt="Hand Gestures" width="400" />
+  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/hand_gestures.png" alt="Hand Gestures" width="500" />
 </p>
 
 ## Project Achievements
