@@ -74,7 +74,6 @@ Throughout the project, we successfully overcame various challenges:
 
 - Identified and resolved assembly and syntax errors to ensure correct car movement.
 - Implemented a voltage divider to protect the Bluetooth module (HC-05).
-- Chose 18650 batteries for optimal energy storage, low cost, and ease of use.
 - Addressed and resolved component quality, particularly with TT motors, through manual shaft processing.
 - Opted for Python for a smoother and more elegant Bluetooth connection.
 
