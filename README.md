@@ -19,7 +19,7 @@ In the context of the constant evolution of technology and the natural way peopl
 The project aims to develop a practical and interactive application that, in addition to traditional methods of controlling a remote-controlled car, allows users to maneuver it through gestures captured by the computer's camera.
 
 <p align="center">
-  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/Arduino_Car.png" alt="Arduino Car" width="400" />
+  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/Arduino_Car.png" alt="Arduino Car" width="700" />
 </p>
 
 ### Technology Stack
