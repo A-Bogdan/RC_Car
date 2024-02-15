@@ -2,6 +2,18 @@
 
 In the context of the constant evolution of technology and the natural way people use hand gestures to emphasize/integrate their intentions, hand gesture recognition is considered a crucial element in human-computer interaction.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+  - [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+  - [Assembly and Preparation of the Remote-Controlled Car](#1-assembly-and-preparation-of-the-remote-controlled-car)
+  - [Remote Control through a Mobile Application](#2-remote-control-through-a-mobile-application)
+  - [Implementation of Commands through Hand Gesture Interpretation](#3-implementation-of-commands-through-hand-gesture-interpretation)
+- [Planning and Component Selection](#planning-and-component-selection)
+- [Bluetooth RC Controller App](#bluetooth-rc-controller-app)
+- [Future Steps](#future-steps)
+- [Project Achievements](#project-achievements)
+
 ## Project Overview
 
 The project aims to develop a practical and interactive application that, in addition to traditional methods of controlling a remote-controlled car, allows users to maneuver it through gestures captured by the computer's camera.
