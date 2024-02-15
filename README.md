@@ -22,8 +22,6 @@ The project aims to develop a practical and interactive application that, in add
   <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/Arduino_Car.png" alt="Arduino Car" width="400" />
 </p>
 
-![Arduino Car]()
-
 ### Technology Stack
 
 - **Arduino Microcontroller:** A powerful and versatile microcontroller receiving commands via Bluetooth.
