@@ -36,6 +36,10 @@ This work is divided into three main chapters:
 - Detailed presentation of components used.
 - Configuration and coordinated connection of components.
 
+<p align="center">
+  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/fritzing.png" alt="Arduino Car" width="400" />
+</p>
+
 ### 2. Remote Control through a Mobile Application
 
 - Creation of the program for the Arduino platform.
