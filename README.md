@@ -37,7 +37,7 @@ This work is divided into three main chapters:
 - Configuration and coordinated connection of components.
 
 <p align="center">
-  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/fritzing.png" alt="Arduino Car" width="400" />
+  <img src="https://github.com/A-Bogdan/RC_Car/blob/main/src/fritzing.png" alt="Arduino Car" width="700" />
 </p>
 
 ### 2. Remote Control through a Mobile Application
